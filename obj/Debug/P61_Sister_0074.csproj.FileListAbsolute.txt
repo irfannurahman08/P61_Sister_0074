@@ -1,0 +1,6 @@
+D:\latihan\C#\P61_Sister_0074\P61_Sister_0074\bin\P61_Sister_0074.dll.config
+D:\latihan\C#\P61_Sister_0074\P61_Sister_0074\bin\P61_Sister_0074.dll
+D:\latihan\C#\P61_Sister_0074\P61_Sister_0074\bin\P61_Sister_0074.pdb
+D:\latihan\C#\P61_Sister_0074\P61_Sister_0074\obj\Debug\P61_Sister_0074.csprojResolveAssemblyReference.cache
+D:\latihan\C#\P61_Sister_0074\P61_Sister_0074\obj\Debug\P61_Sister_0074.dll
+D:\latihan\C#\P61_Sister_0074\P61_Sister_0074\obj\Debug\P61_Sister_0074.pdb
